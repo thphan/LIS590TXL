@@ -14,7 +14,10 @@
 Can Dimensionality Reduction (SVD) help in improving the classification results before applying classifier?
 - Also an extra experiment I would like to implement in the project is to find out the emotions expressed in the stories people posted on Human of New York using the best classification I get from my comparison.
 
-_The full report is available in file **FinalReport.pdf**_
+#### Files
+
+- The full report is available in <a href="https://github.com/thphan/LIS590TXL-EmotionDetection/blob/master/FinalReport.pdf"><b>FinalReport.pdf</b></a>
+- Codes and steps are available in Jupyter Notebook <a href="https://github.com/thphan/LIS590TXL-EmotionDetection/blob/master/FinalProject.ipynb"><b>FinalProject.ipynb</b></a>
 
 #### References
 [1] Canales, Lea and Patricio Martínez-Barco. “Emotion Detection from text: A Survey.” (2014).
